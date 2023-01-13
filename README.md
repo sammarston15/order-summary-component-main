@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/sammarston15/order-summary-component-main](https://github.com/sammarston15/order-summary-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-I1HEdsYJJn](https://www.frontendmentor.io/solutions/order-summary-component-I1HEdsYJJn)
 - Live Site URL: [https://willowy-beijinho-2a4448.netlify.app/](https://willowy-beijinho-2a4448.netlify.app/)
 
 ## My process
